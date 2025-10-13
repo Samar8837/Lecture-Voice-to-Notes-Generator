@@ -35,4 +35,5 @@ Follow the steps to set up and run this project locally.
 
 To run with Docker:
 1. Build the image: `docker build -t lecture-notes-generator .`
-2. Run the container: `docker run -p 8501:8501 -e OPENAI_API_KEY="your_api_key_here" lecture-notes-generator`
+
+2. Run the container: `docker run -p 8501:8501 -e OPENAI_API_KEY="your_api_key_here" lecture-notes-generator`  
