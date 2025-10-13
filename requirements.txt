@@ -1,11 +1,5 @@
-streamlit>=1.30.0
-openai>=1.10.0
-python-dotenv>=1.0.0
+streamlit==1.30.0
+openai==1.10.0
+python-dotenv==1.0.0
 tiktoken==0.5.1
-streamlit-mic-recorder>=0.0.6
-# For local Whisper support (optional, requires ffmpeg)
-# openai-whisper
-# torch
-# torchaudio
-pytest>=7.0.0
-pytest-mock>=3.0.0
+streamlit-mic-recorder==0.0.6
